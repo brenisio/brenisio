@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Breno Sayão, estudante de Engenharia
 
--♥️ Cursando Engenharia de Automação na UFSC
--♦️ Estudando programação 
--♠️ email: brenojulianom@gmail.com
--♣️ "Aprenda como se fosse viver para sempre" Gandhi
+ - 🌹 Cursando Engenharia de Automação na UFSC
+ - 🐷 Estudando programação 
+ - ⚡ Eletrotécnico
+ - ⛑️ Guarda-vidas civil
+ - 🔑 "Aprenda como se fosse viver para sempre" Gandhi
 
 
 <div align="center">
