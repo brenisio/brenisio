@@ -1,7 +1,7 @@
-## Olá! Eu sou o Breno Sayão, estudante de Engenharia
+## Olá! Eu sou o Breno Sayão, estudante de Sistemas de Informação
 
- - 🌹 Cursando Engenharia de Automação na UFSC
- - 🐷 Estudando programação 
+ - 🌹 Cursando Sistemas de Informação na UFSC
+ - 🐷 Dev Python Backend
  - ⚡ Eletrotécnico
  - ⛑️ Guarda-vidas civil
  - 🔑 "Aprenda como se fosse viver para sempre" Gandhi
