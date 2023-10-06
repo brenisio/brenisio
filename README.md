@@ -15,8 +15,6 @@
 <div style="display: inline_block"><br>
   <img align ="center" alt="Breno-Pycharm" height="50" width="50" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align ="center" alt="Breno-Python" height="50" width="50" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align ="center" alt="Breno-Arduino" height="50" width="50" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img align ="center" alt="Breno-Arduino" height="50" width="50" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="right" alt="Breno-pic" height="264" width="187" style="border-radius:50px;" src="https://giffiles.alphacoders.com/206/206748.gif">
  </div>
   
