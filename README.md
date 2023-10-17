@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Breno Sayão, estudante de Sistemas de Informação
 
+Para saber mais sobre mim, visite [Meu portfolio](https://brenosayao.wordpress.com/).
+
  - 🌹 Cursando Sistemas de Informação na UFSC
- - 🐷 Dev Python Backend
+ - 🐷 Dev Backend
  - ⚡ Eletrotécnico
  - ⛑️ Guarda-vidas civil
  - 🔑 "Aprenda como se fosse viver para sempre" Gandhi
@@ -9,7 +11,6 @@
 
 <div align="center">
   <a href="https://github.com/brenisio">
-   <a href="https://brenosayao.wordpress.com/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenisio&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenisio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
