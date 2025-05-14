@@ -1,9 +1,9 @@
-## Olá! Eu sou o Breno Sayão, estudante de Sistemas de Informação
+## Olá! Eu sou o Breno Sayão, desenvolvedor Full Stack
 
 Para saber mais sobre mim, visite [Meu portfolio](https://brenosayao.wordpress.com/).
 
+ - 🐷 Dev Full Stack
  - 🌹 Cursando Sistemas de Informação na UFSC
- - 🐷 Dev Backend
  - ⚡ Eletrotécnico
  - ⛑️ Guarda-vidas civil
  - 🔑 "Aprenda como se fosse viver para sempre" Gandhi
