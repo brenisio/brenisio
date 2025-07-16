@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Breno Sayão, desenvolvedor Full Stack
 
+Sou apaixonado por tecnologia, atleta de e-sports e ex-salva-vidas voluntário. Estou estudando RPA's e desenvolvimento com IA usando python. Trabalho bem em equipe e consigo lidar com trabalho sob pressão. Para mim, programação é o poder de usar a lógica e a tecnologia para causar um impacto positivo no mundo.
+
 Para saber mais sobre mim, visite [Meu portfolio](https://brenosayao.wordpress.com/).
 
  - 🐷 Dev Full Stack
@@ -26,4 +28,4 @@ Para saber mais sobre mim, visite [Meu portfolio](https://brenosayao.wordpress.c
   <a href="https://contate.me/brenisio" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://t.me/Brenisio" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  	<a href="mailto:brenojulianom.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/breno-say%C3%A3o-22852a195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/breno-sayao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
