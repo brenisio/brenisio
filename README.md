@@ -53,7 +53,7 @@
 
 ---
 
-<div align="right">
+<div align="center">
   <img alt="Breno-pic" height="264" width="187" style="border-radius:20px;" src="https://giffiles.alphacoders.com/206/206748.gif">
 </div>
 
